@@ -1,0 +1,2 @@
+import{j as a}from"./react-vendor-CwBS0qW1.js";import{j as m,G as r,m as n}from"./index-Bc5ILkDb-D162cpXf.js";import"./runtime-react.js";function p({value:t,onChange:s,...e}){return a.jsxs("div",{className:"relative flex items-center",children:[a.jsx(m,{name:"map-pin",className:"text-muted absolute left-0.5 ml-3 h-4 w-4 -translate-y-1/2",style:{top:"44%"}}),a.jsx(r,{...e,autoComplete:"address-line1",value:t,onChange:l=>{s(l.target.value)},className:n("pl-10",e==null?void 0:e.className)})]})}export{p as default};
+//# sourceMappingURL=AddressInput-D_qJhLzB-RM6chkrc.js.map
